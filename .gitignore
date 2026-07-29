@@ -1,0 +1,15 @@
+# Python environments and bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local secrets, generated files, and editor metadata
+.env
+.env.*
+.streamlit/secrets.toml
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
